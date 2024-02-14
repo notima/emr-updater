@@ -20,6 +20,10 @@ Run the following on the command line
 
     python3 update.py <ip_address> <firmware_file>
 
+Example below:
+
+![Command line example](emr_updater_windows_example.png)
+
 ## Linux
 
 For linux, use the "update" file:
