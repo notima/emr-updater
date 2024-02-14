@@ -1,4 +1,4 @@
-To use the update program ("update.exe" for windows), open the terminal in the same directory as the script and use the command windows:
+These are tools that enable updates of firmware for Energy Meter Readers that are located on the same network as where the tool is running.
 
 ## Windows
 
